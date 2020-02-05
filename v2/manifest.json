@@ -1,0 +1,118 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "BBOR Charity",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "/",
+    "short_name": "BBOR Charity",
+    "theme_color": "#AA41D6",
+    "description": "Beautiful Beginnings Outreach Relief (BBOR) is an organization that provides a platform for orphaned and vulnerable children to receive their basic human rights.",
+    "orientation": "portrait",
+    "background_color": "#Ffffff",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "gcm_sender_id": "482941778795",
+
+    "icons": [{
+            "src": "/img/footer_logo.png",
+            "sizes": "16x16"
+        },
+
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/footer_logo.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
